@@ -1,2 +1,4 @@
 # bigdata-front
- ENGSOFT37 - Big Data
+ 
+
+É necessário executar 'npm install' na pasta raiz do sistema.
